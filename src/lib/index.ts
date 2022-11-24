@@ -1,0 +1,1 @@
+export { makeActions } from './lib';
